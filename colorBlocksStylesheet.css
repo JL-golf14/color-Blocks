@@ -1,0 +1,38 @@
+#1{
+  width: 100px;
+  height: 100px;
+    border: 12px solid black;
+    padding: 25px;
+    margin: 25px;
+    /*background-color: blue;*/
+}
+
+#2{
+  width: 100px;
+  height: 100px;
+    border: 12px solid black;
+    padding: 25px;
+    margin: 25px;
+    /*background-color: red;*/
+}
+
+#3{
+  width: 100px;
+  height: 100px;
+    border: 12px solid black;
+    padding: 25px;
+    margin: 25px;
+    /*background-color: green;*/
+}
+
+#4{
+  width: 100px;
+  height: 100px;
+    border: 12px solid black;
+    padding: 25px;
+    margin: 25px;
+    /*background-color: yellow;*/
+}
+#body{
+  background-color: aliceblue;
+}
